@@ -52,6 +52,7 @@
 - [CRT](https://github.com/GyverLibs/CRT) - библиотека с набором функций для CRT коррекции светодиодов
 
 ### Связь:
+- [GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК
 - [GParser](https://github.com/GyverLibs/GParser) - простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
 - [AsyncStream](https://github.com/GyverLibs/AsyncStream) - библиотека для асинхронного чтения объектов Stream (Serial итд)
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
