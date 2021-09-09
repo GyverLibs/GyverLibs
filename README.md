@@ -45,7 +45,8 @@
 - [TimeRandom](https://github.com/GyverLibs/TimeRandom) - библиотека для генерации набора случайных чисел с привязкой ко времени
 - [UnixTime](https://github.com/GyverLibs/UnixTime) - конвертер unix time stamp в дату и время и наоборот для Arduino
 - [GyverGFX](https://github.com/GyverLibs/GyverGFX) - лёгкая библиотека двухмерной графики для дисплеев и матриц
-- [GyverFIFO](https://github.com/GyverLibs/GyverFIFO) - лёгкий универсальный кольцевой буфер для Arduino
+- [GyverFIFO](https://github.com/GyverLibs/GyverFIFO) - универсальный кольцевой буфер для Arduino
+- [GyverLBUF](https://github.com/GyverLibs/GyverLBUF) - линейный буфер для Arduino
 - [fixed](https://github.com/GyverLibs/fixed) - реализация вычислений с фиксированной точкой для Arduino
 - [FFT_C](https://github.com/GyverLibs/FFT_C) - библиотека преобразования Фурье на С (для esp8266)
 - [BitPack](https://github.com/GyverLibs/BitPack) - библиотека для упаковки битовых флагов в байтовый массив (экономия места) для Arduino
