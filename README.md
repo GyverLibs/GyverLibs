@@ -62,6 +62,7 @@
 
 ### Системное:
 - [TimerMs](https://github.com/GyverLibs/TimerMs) - многофункциональный программный таймер на системном таймере millis() для Arduino
+- [EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти
 - [GyverOS](https://github.com/GyverLibs/GyverOS) - библиотека лёгкого диспетчера задач для Arduino
 - [GyverPower](https://github.com/GyverLibs/GyverPower) - библиотека для управления энергопотреблением МК AVR
 - [GyverUART](https://github.com/GyverLibs/GyverUART) - лёгкая библиотека для работы с последовательным портом
