@@ -59,13 +59,14 @@
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
 - [Gyver433](https://github.com/GyverLibs/Gyver433) - библиотека для радиомодулей 433 МГц и Arduino
 - [GyverBus](https://github.com/GyverLibs/GyverBus) - библиотека для общения по протоколу GBUS
+- [GyverUART](https://github.com/GyverLibs/GyverUART) - лёгкая библиотека для работы с последовательным портом (аналог Serial)
+- [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
 
 ### Системное:
 - [TimerMs](https://github.com/GyverLibs/TimerMs) - многофункциональный программный таймер на системном таймере millis() для Arduino
 - [EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти
 - [GyverOS](https://github.com/GyverLibs/GyverOS) - библиотека лёгкого диспетчера задач для Arduino
 - [GyverPower](https://github.com/GyverLibs/GyverPower) - библиотека для управления энергопотреблением МК AVR
-- [GyverUART](https://github.com/GyverLibs/GyverUART) - лёгкая библиотека для работы с последовательным портом
 - [buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME
 - [GyverTimer](https://github.com/GyverLibs/GyverTimer) - полноценный таймер на базе системных millis() / micros()
 
