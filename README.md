@@ -77,3 +77,6 @@
 - [directTimers](https://github.com/GyverLibs/directTimers) - библиотека для расширенного ручного управления таймерами ATMega2560, ATMega328, ATMega32u4
 - [directADC](https://github.com/GyverLibs/directADC) - библиотека для расширенного ручного управления АЦП и компаратором ATmega328
 - [GyverPWM](https://github.com/GyverLibs/GyverPWM) - библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
+
+## Библиотеки для Processing
+- [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
