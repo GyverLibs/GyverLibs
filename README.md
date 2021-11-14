@@ -6,6 +6,7 @@
 - [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 
 ### Датчики:
+- [GyverINA](https://github.com/GyverLibs/GyverINA) - лёгкая библиотека для модулей power-monitor'ов INA219 и INA226
 - [Psychrometer](https://github.com/GyverLibs/Psychrometer) - библиотека для определения влажности по сухому и мокрому термометру для Arduino
 - [Tachometer](https://github.com/GyverLibs/Tachometer) - библиотека тахометра для Arduino без привязки к железу
 - [GyverNTC](https://github.com/GyverLibs/GyverNTC) - библиотека для работы с NTC термисторами по закону Стейнхарта-Харта
