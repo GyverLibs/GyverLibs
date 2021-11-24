@@ -35,6 +35,7 @@
 - [AccelMotor](https://github.com/GyverLibs/AccelMotor) - библиотека для расширенного управления и стабилизации мотора с энкодером для Arduino
 
 ### Алгоритмы:
+- [Approxy](https://github.com/GyverLibs/Approxy) - линейный аппроксиматор данных
 - [GyverPID](https://github.com/GyverLibs/GyverPID) - библиотека PID регулятора для Arduino
 - [GyverFilters](https://github.com/GyverLibs/GyverFilters) - библиотека с некоторыми удобными фильтрами для Arduino
 - [Forecaster](https://github.com/GyverLibs/Forecaster) - библиотека для определения прогноза погоды по давлению для Arduino
