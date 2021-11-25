@@ -55,6 +55,7 @@
 - [CRT](https://github.com/GyverLibs/CRT) - библиотека с набором функций для CRT коррекции светодиодов
 
 ### Связь:
+- [EasyHID](https://github.com/GyverLibs/EasyHID) - программная реализация USB мыши и клавиатуры
 - [GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК
 - [GParser](https://github.com/GyverLibs/GParser) - простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
 - [AsyncStream](https://github.com/GyverLibs/AsyncStream) - библиотека для асинхронного чтения объектов Stream (Serial итд)
