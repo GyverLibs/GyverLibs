@@ -23,6 +23,7 @@
 - [GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - библиотека для расширенной работы с энкодером
 
 ### Железки вывод:
+- [GyverHC595](https://github.com/GyverLibs/GyverHC595) - библиотека для удобного управления каскадом сдвиговых регистров 74HC595
 - [GRGB](https://github.com/GyverLibs/GRGB) - библиотека для управления RGB светодиодами и лентами для Arduino
 - [microLED](https://github.com/GyverLibs/microLED) - ультра лёгкая библиотека для работы с адресной лентой/матрицей
 - [ServoSmooth](https://github.com/GyverLibs/ServoSmooth) - библиотека для плавного управления сервоприводами
