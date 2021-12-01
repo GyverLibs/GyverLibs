@@ -36,6 +36,7 @@
 - [AccelMotor](https://github.com/GyverLibs/AccelMotor) - библиотека для расширенного управления и стабилизации мотора с энкодером для Arduino
 
 ### Алгоритмы:
+- [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
 - [Approxy](https://github.com/GyverLibs/Approxy) - линейный аппроксиматор данных
 - [GyverPID](https://github.com/GyverLibs/GyverPID) - библиотека PID регулятора для Arduino
 - [GyverFilters](https://github.com/GyverLibs/GyverFilters) - библиотека с некоторыми удобными фильтрами для Arduino
