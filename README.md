@@ -85,6 +85,7 @@
 
 ## ESP8266 библиотеки
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
+- [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
 
 ## Processing библиотеки
 - [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
