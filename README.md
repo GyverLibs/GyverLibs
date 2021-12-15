@@ -1,4 +1,5 @@
-## Arduino библиотеки от AlexGyver
+# GyverLibs - всякие библиотеки от AlexGyver
+## Arduino библиотеки
 ### Дисплеи:
 - [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
