@@ -84,5 +84,6 @@
 - [directADC](https://github.com/GyverLibs/directADC) - библиотека для расширенного ручного управления АЦП и компаратором ATmega328
 - [GyverPWM](https://github.com/GyverLibs/GyverPWM) - библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
 
-## Библиотеки для Processing
+## Processing библиотеки
 - [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
+- [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
