@@ -86,10 +86,11 @@
 - [directADC](https://github.com/GyverLibs/directADC) - библиотека для расширенного ручного управления АЦП и компаратором ATmega328
 - [GyverPWM](https://github.com/GyverLibs/GyverPWM) - библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
 
-## ESP8266 библиотеки
+## Библиотеки для ESP8266
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
+- [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 
-## Processing библиотеки
+## Библиотеки для Processing
 - [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
 - [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
