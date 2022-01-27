@@ -1,12 +1,11 @@
-# GyverLibs - всякие библиотеки от AlexGyver
+# GyverLibs - Arduino библиотеки от AlexGyver
 ![Logo](/libs.png)
-## Arduino библиотеки
-### Дисплеи:
-- [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
-- [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
-- [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - библиотка для модулей семисегментного дисплея TM74HC595
-- [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
+- [Arduino-совместимые](#arduino)
+- [esp8266/esp32](#esp)
+- [Processing](#processing)
 
+<a id="arduino"></a>
+## Arduino библиотеки
 ### Датчики:
 - [GyverMAX6675](https://github.com/GyverLibs/GyverMAX6675) - Лёгкая библиотека для драйвера термопары MAX6675
 - [GyverHTU21D](https://github.com/GyverLibs/GyverHTU21D) - Лёгкая библиотека для датчика температуры и влажности HTU21D
@@ -38,6 +37,12 @@
 - [GyverStepper](https://github.com/GyverLibs/GyverStepper) - производительная библиотека для управления шаговыми моторами с Arduino
 - [GyverMotor](https://github.com/GyverLibs/GyverMotor) - библиотека для удобного управления коллекторными моторами через драйвер
 - [AccelMotor](https://github.com/GyverLibs/AccelMotor) - библиотека для расширенного управления и стабилизации мотора с энкодером для Arduino
+
+### Дисплеи:
+- [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
+- [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
+- [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - библиотка для модулей семисегментного дисплея TM74HC595
+- [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 
 ### Алгоритмы:
 - [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
@@ -86,11 +91,13 @@
 - [directADC](https://github.com/GyverLibs/directADC) - библиотека для расширенного ручного управления АЦП и компаратором ATmega328
 - [GyverPWM](https://github.com/GyverLibs/GyverPWM) - библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
 
+<a id="esp"></a>
 ## Библиотеки для ESP8266
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 
+<a id="processing"></a>
 ## Библиотеки для Processing
 - [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
 - [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
