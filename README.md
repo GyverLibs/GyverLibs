@@ -7,8 +7,8 @@
 <a id="arduino"></a>
 ## Arduino библиотеки
 ### Датчики:
-- [GyverMAX6675](https://github.com/GyverLibs/GyverMAX6675) - Лёгкая библиотека для драйвера термопары MAX6675
-- [GyverHTU21D](https://github.com/GyverLibs/GyverHTU21D) - Лёгкая библиотека для датчика температуры и влажности HTU21D
+- [GyverMAX6675](https://github.com/GyverLibs/GyverMAX6675) - лёгкая библиотека для драйвера термопары MAX6675
+- [GyverHTU21D](https://github.com/GyverLibs/GyverHTU21D) - лёгкая библиотека для датчика температуры и влажности HTU21D
 - [GyverINA](https://github.com/GyverLibs/GyverINA) - лёгкая библиотека для модулей power-monitor'ов INA219 и INA226
 - [Psychrometer](https://github.com/GyverLibs/Psychrometer) - библиотека для определения влажности по сухому и мокрому термометру для Arduino
 - [Tachometer](https://github.com/GyverLibs/Tachometer) - библиотека тахометра для Arduino без привязки к железу
@@ -83,7 +83,7 @@
 - [buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME
 - [GyverTimer](https://github.com/GyverLibs/GyverTimer) - полноценный таймер на базе системных millis() / micros()
 
-### Периферия МК:
+### Периферия МК (только AVR):
 - [GyverTimers](https://github.com/GyverLibs/GyverTimers) - настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
 - [GyverWDT](https://github.com/GyverLibs/GyverWDT) - библиотека для управления WDT на AVR ATmega328p/32U4/2560 & ATtiny85/84/167
 - [microWire](https://github.com/GyverLibs/microWire) - лёгкая библиотека со стандартным набором инструментов для работы с аппаратным I2C
