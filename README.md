@@ -24,6 +24,7 @@
 - [AnalogKey](https://github.com/GyverLibs/AnalogKey) - библиотека для работы с аналоговой клавиатурой для Arduino
 - [GyverButton](https://github.com/GyverLibs/GyverButton) - библиотека для многофункциональной отработки нажатия кнопки
 - [GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - библиотека для расширенной работы с энкодером
+- [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 
 ### Железки вывод:
 - [QuickCharge](https://github.com/GyverLibs/QuickCharge) - библиотека для управления адаптерами с поддержкой технологии QuickCharge 2.0/3.0
