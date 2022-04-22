@@ -1,6 +1,8 @@
 # GyverLibs - Arduino библиотеки от AlexGyver
 ![Logo](/libs.png)
-- [Arduino-совместимые](#arduino)
+Я делаю различные библиотеки для Arduino, аналогов которым либо нет, либо они тяжёлые, медленные, неудобные, малофункциональные и так далее. Если у вас есть вопросы, претензии, пожелания или предложения - моя почта [alex@alexgyver.ru](mailto:alex@alexgyver.ru).
+
+- [Все Arduino](#arduino)
 - [esp8266/esp32](#esp)
 - [Processing](#processing)
 
@@ -20,11 +22,11 @@
 
 ### Железки ввод:
 - [EncButton](https://github.com/GyverLibs/EncButton) - ультра лёгкая и быстрая библиотека для энкодера, энкодера с кнопкой или просто кнопки
+- [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 - [NecDecoder](https://github.com/GyverLibs/NecDecoder) - лёгкая библиотека для декодирования ИК протокола NEC
 - [AnalogKey](https://github.com/GyverLibs/AnalogKey) - библиотека для работы с аналоговой клавиатурой для Arduino
-- [GyverButton](https://github.com/GyverLibs/GyverButton) - библиотека для многофункциональной отработки нажатия кнопки
-- [GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - библиотека для расширенной работы с энкодером
-- [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
+- [GyverButton](https://github.com/GyverLibs/GyverButton) - библиотека для многофункциональной отработки нажатия кнопки [устарела, используй [EncButton](https://github.com/GyverLibs/EncButton)]
+- [GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - библиотека для расширенной работы с энкодером [устарела, используй [EncButton](https://github.com/GyverLibs/EncButton)]
 
 ### Железки вывод:
 - [QuickCharge](https://github.com/GyverLibs/QuickCharge) - библиотека для управления адаптерами с поддержкой технологии QuickCharge 2.0/3.0
@@ -43,7 +45,7 @@
 ### Дисплеи:
 - [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
-- [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - библиотка для модулей семисегментного дисплея TM74HC595
+- [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - *[дорабатывается]* библиотка для модулей семисегментного дисплея TM74HC595
 - [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 
 ### Алгоритмы:
