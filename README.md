@@ -2,6 +2,8 @@
 ![Logo](/libs.png)
 Я делаю различные библиотеки для Arduino, аналогов которым либо нет, либо они тяжёлые, медленные, неудобные, малофункциональные и так далее. Если у вас есть вопросы, претензии, пожелания или предложения - моя почта [alex@alexgyver.ru](mailto:alex@alexgyver.ru).
 
+[![Foo](https://img.shields.io/badge/README-ENGLISH-brightgreen.svg?style=for-the-badge)](https://github-com.translate.goog/GyverLibs/GyverLibs?_x_tr_sl=ru&_x_tr_tl=en)
+
 - [Все Arduino](#arduino)
 - [esp8266/esp32](#esp)
 - [Processing](#processing)
