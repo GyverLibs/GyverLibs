@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 #arduino)
 - [esp8266/esp32](#esp)
 - [Processing](#processing)
