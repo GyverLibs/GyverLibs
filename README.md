@@ -1,6 +1,6 @@
 # GyverLibs - Arduino библиотеки от AlexGyver
 ![Logo](/libs.png)
-Я делаю различные библиотеки для Arduino, аналогов которым либо нет, либо они тяжёлые, медленные, неудобные, малофункциональные и так далее. Если у вас есть вопросы, претензии, пожелания или предложения - моя почта [alex@alexgyver.ru](mailto:alex@alexgyver.ru).
+Я делаю различные библиотеки для Arduino, которые легче, быстрее, удобнее и функциональнее аналогов. Если у вас есть вопросы/претензии/пожелания/предложения - моя почта [alex@alexgyver.ru](mailto:alex@alexgyver.ru).
 
 [![Foo](https://img.shields.io/badge/README-ENGLISH-brightgreen.svg?style=for-the-badge)](https://github-com.translate.goog/GyverLibs/GyverLibs?_x_tr_sl=ru&_x_tr_tl=en)
 
