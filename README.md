@@ -49,6 +49,7 @@
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
 - [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - *[дорабатывается]* библиотка для модулей семисегментного дисплея TM74HC595
 - [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
+- [CharDisplay](https://github.com/GyverLibs/CharDisplay) - графический движок на символах: полноценное рисование, индикаторы загрузки, графики
 
 ### Алгоритмы:
 - [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
