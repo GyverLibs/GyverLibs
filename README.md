@@ -1,12 +1,11 @@
 # GyverLibs - Arduino библиотеки от AlexGyver
 ![Logo](/libs.png)
+[![Foo](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=for-the-badge)](https://github-com.translate.goog/GyverLibs/GyverLibs?_x_tr_sl=ru&_x_tr_tl=en)   
 Я делаю различные библиотеки для Arduino, которые легче, быстрее, удобнее и функциональнее аналогов. Если у вас есть вопросы/претензии/пожелания/предложения - моя почта [alex@alexgyver.ru](mailto:alex@alexgyver.ru).  
-[![Foo](https://img.shields.io/badge/README-ENGLISH-blueviolet.svg?style=flat-square)](https://github-com.translate.goog/GyverLibs/GyverLibs?_x_tr_sl=ru&_x_tr_tl=en)  
-
-### Обновления
 Обновления библиотек автоматически публикуются в телеграм-канале: 
 
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20ОБНОВЛЕНИЯ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/GyverLibs)
+
 ### Содержание
 - [Все Arduino](#arduino)
 - [esp8266/esp32](#esp)
