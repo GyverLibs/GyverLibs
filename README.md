@@ -2,7 +2,9 @@
 ![Logo](/libs.png)
 Я делаю различные библиотеки для Arduino, которые легче, быстрее, удобнее и функциональнее аналогов. Если у вас есть вопросы/претензии/пожелания/предложения - моя почта [alex@alexgyver.ru](mailto:alex@alexgyver.ru).
 
+### Обновления
 Обновления библиотек автоматически публикуются в телеграм-канале:
+
 [![Foo](https://img.shields.io/badge/ПОДПИСАТЬСЯ-НА%20ОБНОВЛЕНИЯ-brightgreen.svg?style=social&logo=telegram&color=blue)](https://t.me/GyverLibs)
 
 - [Все Arduino](#arduino)
