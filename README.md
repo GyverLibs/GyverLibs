@@ -105,9 +105,10 @@
 
 <a id="esp"></a>
 ## Библиотеки для ESP8266
+- [GyverHUB](https://github.com/GyverLibs/GyverHUB) - cистема управления проектом на esp8266/esp32 при помощи приложения и веб-сервиса GyverHUB
+- [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
-- [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 - [GyverNTP](https://github.com/GyverLibs/GyverNTP) - библиотека для получения точного времени с NTP сервера для esp8266/esp32
 
 <a id="processing"></a>
