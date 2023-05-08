@@ -56,6 +56,7 @@
 - [CharDisplay](https://github.com/GyverLibs/CharDisplay) - графический движок на символах: полноценное рисование, индикаторы загрузки, графики
 
 ### Алгоритмы:
+- [Stamp](https://github.com/GyverLibs/Stamp) - хранение и преобразование времени
 - [SunPosition](https://github.com/GyverLibs/SunPosition) - определение положения солнца по геолокации и времени
 - [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
 - [Approxy](https://github.com/GyverLibs/Approxy) - линейный аппроксиматор данных
