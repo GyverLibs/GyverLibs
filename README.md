@@ -26,6 +26,7 @@
 - [microDS3231](https://github.com/GyverLibs/microDS3231) - лёгкая библиотека для работы с RTC DS3231 для Arduino
 
 ### Железки ввод:
+- [GyverHUB](https://github.com/GyverLibs/GyverHUB) - система взаимодействия с микроконтроллером из приложения и веб-сервиса GyverHUB, конструктор интерфейса
 - [EncButton](https://github.com/GyverLibs/EncButton) - ультра лёгкая и быстрая библиотека для энкодера, энкодера с кнопкой или просто кнопки
 - [VirtualButton](https://github.com/GyverLibs/VirtualButton) - библиотека с логикой расширенной обработки кнопки (виртуальная кнопка)
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
@@ -106,7 +107,6 @@
 
 <a id="esp"></a>
 ## Библиотеки для ESP8266
-- [GyverHUB](https://github.com/GyverLibs/GyverHUB) - cистема управления проектом на esp8266/esp32 при помощи приложения и веб-сервиса GyverHUB
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
