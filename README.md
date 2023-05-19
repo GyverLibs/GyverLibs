@@ -26,7 +26,7 @@
 - [microDS3231](https://github.com/GyverLibs/microDS3231) - лёгкая библиотека для работы с RTC DS3231 для Arduino
 
 ### Железки ввод:
-- [GyverHUB](https://github.com/GyverLibs/GyverHUB) - система взаимодействия с микроконтроллером из приложения и веб-сервиса GyverHUB, конструктор интерфейса
+- [GyverHUB](https://github.com/GyverLibs/GyverHUB) - панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом
 - [EncButton](https://github.com/GyverLibs/EncButton) - ультра лёгкая и быстрая библиотека для энкодера, энкодера с кнопкой или просто кнопки
 - [VirtualButton](https://github.com/GyverLibs/VirtualButton) - библиотека с логикой расширенной обработки кнопки (виртуальная кнопка)
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
