@@ -106,7 +106,8 @@
 - [GyverPWM](https://github.com/GyverLibs/GyverPWM) - библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
 
 <a id="esp"></a>
-## Библиотеки для ESP8266
+## Библиотеки для ESP8266/ESP32
+- [FileData](https://github.com/GyverLibs/FileData) - замена EEPROM, хранение любых данных и переменных в файлах
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 - [FastBot](https://github.com/GyverLibs/FastBot) - очень простая и быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
