@@ -27,12 +27,10 @@
 
 ### Железки ввод:
 - [GyverHub](https://github.com/GyverLibs/GyverHub) - панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом
-- [EncButton](https://github.com/GyverLibs/EncButton) - ультра лёгкая и быстрая библиотека для энкодера, энкодера с кнопкой или просто кнопки
+- [EncButton](https://github.com/GyverLibs/EncButton) - лёгкая библиотека для энкодера и/или кнопки с огромным количеством возможностей
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 - [NecDecoder](https://github.com/GyverLibs/NecDecoder) - лёгкая библиотека для декодирования ИК протокола NEC
 - [AnalogKey](https://github.com/GyverLibs/AnalogKey) - библиотека для работы с аналоговой клавиатурой для Arduino
-- [GyverButton](https://github.com/GyverLibs/GyverButton) - библиотека для многофункциональной отработки нажатия кнопки [устарела, используй [EncButton](https://github.com/GyverLibs/EncButton)]
-- [GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - библиотека для расширенной работы с энкодером [устарела, используй [EncButton](https://github.com/GyverLibs/EncButton)]
 
 ### Железки вывод:
 - [QuickCharge](https://github.com/GyverLibs/QuickCharge) - библиотека для управления адаптерами с поддержкой технологии QuickCharge 2.0/3.0
