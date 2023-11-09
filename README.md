@@ -85,6 +85,7 @@
 - [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
 
 ### Системное:
+- [GyverIO](https://github.com/GyverLibs/GyverIO) - быстрые функции для работы с пинами AVR, ESP8266, ESP32
 - [Pairs](https://github.com/GyverLibs/Pairs) - хранение данных в текстовом виде в формате "ключ":значение
 - [TimerMs](https://github.com/GyverLibs/TimerMs) - многофункциональный программный таймер на системном таймере millis() для Arduino
 - [EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти
