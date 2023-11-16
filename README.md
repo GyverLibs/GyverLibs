@@ -45,6 +45,7 @@
 - [AccelMotor](https://github.com/GyverLibs/AccelMotor) - библиотека для расширенного управления и стабилизации мотора с энкодером для Arduino
 
 ### Дисплеи:
+- [GyverSegment](https://github.com/GyverLibs/GyverSegment) - мощная библиотека для любых дисплеев с 7-сегментными индикаторами
 - [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
 - [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - *[дорабатывается]* библиотка для модулей семисегментного дисплея TM74HC595
