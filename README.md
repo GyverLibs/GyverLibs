@@ -74,6 +74,7 @@
 - [FFT_C](https://github.com/GyverLibs/FFT_C) - библиотека преобразования Фурье на С (для esp8266)
 - [BitPack](https://github.com/GyverLibs/BitPack) - библиотека для упаковки битовых флагов в байтовый массив (экономия места) для Arduino
 - [CRT](https://github.com/GyverLibs/CRT) - библиотека с набором функций для CRT коррекции светодиодов
+- [StringUtils](https://github.com/GyverLibs/StringUtils) - набор инструментов для работы со строками
 
 ### Связь:
 - [EasyHID](https://github.com/GyverLibs/EasyHID) - программная реализация USB мыши и клавиатуры
