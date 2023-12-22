@@ -1,106 +1,116 @@
 This is an automatic translation, may be incorrect in some places. See sources and examples!
 
 #arduino)
-- [esp8266/esp32](#esp)
-- [Processing](#processing)
+- [ESP8266/ESP32] (# ESP)
+- [Processing] (# Processing)
 
-<a id="arduino"></a>
-## Arduino libraries
+<a Id="Arduino"> </a>
+## Arduino Library
 ### Sensors:
-- [GyverMAX6675](https://github.com/GyverLibs/GyverMAX6675) - lightweight library for MAX6675 thermocouple driver
-- [GyverHTU21D](https://github.com/GyverLibs/GyverHTU21D) - lightweight library for HTU21D temperature and humidity sensor
-- [GyverINA](https://github.com/GyverLibs/GyverINA) - lightweight library for INA219 and INA226 power-monitor modules
-- [Psychrometer](https://github.com/GyverLibs/Psychrometer) - library for determining humidity by dry and wet bulb for Arduino
-- [Tachometer](https://github.com/GyverLibs/Tachometer) - tachometer library for Arduino without binding to hardware
-- [GyverNTC](https://github.com/GyverLibs/GyverNTC) - library for working with NTC thermistors according to the Steinhart-Hart law
-- [GyverHX711](https://github.com/GyverLibs/GyverHX711) - library for working with weight sensors (ADC) HX711 for Arduino
-- [GyverBME280](https://github.com/GyverLibs/GyverBME280) - library for working with BME280 via I2C for Arduino
-- [microDS18B20](https://github.com/GyverLibs/microDS18B20) - lightweight library for working with DS18B20 1-Wire thermometers
-- [microDS3231](https://github.com/GyverLibs/microDS3231) - lightweight RTC DS3231 library for Arduino
+- [gyvermax6675] (https://github.com/gyverlibs/gyvermax6675) - light library for the thermocouple driver Max6675
+- [gyverhtu21d] (https://github.com/gyverlibs/gyverhtu21d) - light library for the temperature and humidity sensor htu21d
+- [gyverina] (https://github.com/gyverlibs/gyverina) - light library for Power-Monitor'ov Ina219 and Ina226
+- [PSYCHROMETER] (https://github.com/gyverlibs/psychrometer) - a library for determining humidity by dry and wet thermometer for Arduino
+- [Tachometer] (https://github.com/gyverlibs/tachometer) - Tachometer library for arduino without reference to the gland
+- [gyverntc] (https://github.com/gyverlibs/gyverntc) - Library for working with NTC Termistors according to the Law of Steinhart -Hart
+- [gyverhx711] (https://github.com/gyverlibs/gyverhx711) - library of working with weight sensors (ACP) HX711 for Arduino
+- [gyverbme280] (https://github.com/gyverlibs/gyverbme280) - library for working with BME280 to I2C for Arduino
+- [Microds18b20] (https://github.com/gyverlibs/microds18b20) - A light library for working with 1-wire thermometers DS18B20
+- [Microds3231] (https://github.com/gyverlibs/microds3231) - light library for working with RTC DS3231 for Arduino
 
-### Hardware input:
-- [EncButton](https://github.com/GyverLibs/EncButton) - ultra light and fast library for encoder, encoder with button or just buttons
-- [GyverJoy](https://github.com/GyverLibs/GyverJoy) - a library for convenient work with a joystick
-- [NecDecoder](https://github.com/GyverLibs/NecDecoder) - lightweight NEC protocol IR decoding library
-- [AnalogKey](https://github.com/GyverLibs/AnalogKey) - analog keyboard library for Arduino
-- [GyverButton](https://github.com/GyverLibs/GyverButton) - library for multifunctional button press handling [deprecated, use [EncButton](https://github.com/GyverLibs/EncButton)]
-- [GyverEncoder](https://github.com/GyverLibs/GyverEncoder) - library for advanced work with encoder [deprecated, use [EncButton](https://github.com/GyverLibs/EncButton)]
+### Tiles Entering:
+- [gyverhub] (https://github.com/gyverlibs/gyverhub) - control panel for ESP8266, ESP32 and other Arduino.Interface designer.Integration into a smart house
+- [encbutton] (https://github.com/gyverlibs/encbutton) - light library for encoder and/or buttons with a huge number of capabilities
+- [gyverjoy] (https://github.com/gyverlibs/gyverjoy) - library for convenient work with the joystick
+- [necdecoder] (https://github.com/gyverlibs/necdecoder) - light library for decoding IR NEC protocol
+- [analogy] (https://github.com/gyverlibs/analogkey) - a library for working with an analogue keyboard for Arduino
 
-### Hardware output:
-- [QuickCharge](https://github.com/GyverLibs/QuickCharge) - library for managing adapters with support for QuickCharge 2.0/3.0 technology
-- [GyverHC595](https://github.com/GyverLibs/GyverHC595) - library for convenient control of 74HC595 shift register cascade
-- [GRGB](https://github.com/GyverLibs/GRGB) - library to control RGB LEDs and ribbons for Arduino
-- [microLED](https://github.com/GyverLibs/microLED) - ultra lightweight address strip/matrix library
-- [ServoSmooth](https://github.com/GyverLibs/ServoSmooth) - library for smooth servo control
-- [SoftServo](https://github.com/GyverLibs/SoftServo) - Servo control library (based on millis/micros)
-- [GyverRelay](https://github.com/GyverLibs/GyverRelay) - classic relay controller library for Arduino
-- [PWMrelay](https://github.com/GyverLibs/PWMrelay) - a library for generating a low-frequency PWM signal for relays (for PID controllers, etc.)
-- [GyverDimmer](https://github.com/GyverLibs/GyverDimmer) - library to control triac dimmer with Arduino
-- [GyverStepper](https://github.com/GyverLibs/GyverStepper) - a powerful library for controlling stepper motors with Arduino
-- [GyverMotor](https://github.com/GyverLibs/GyverMotor) - a library for convenient control of collector motors through a driver
-- [AccelMotor](https://github.com/GyverLibs/AccelMotor) - library for advanced control and stabilization of a motor with an encoder for Arduino
+### Tiles Conclusion:
+- [gyverblinker] (https://github.com/gyverlibs/gyverblinker) - Timer with a counter for blinking with an LED and other tasks
+- [gyverbeeper] (https://github.com/gyverlibs/gyverbeeper) - generation of squeaks by timer
+- [QuickChaRge] (https://github.com/gyverlibs/quickChaRge) - library for managing adapters with support for QuickChaRge 2.0/3.0 technology
+- [gyverhc595] (https://github.com/gyverlibs/gyverhc595) - a library for the convenient management of a cascade of shift registers 74HC595
+- [grgb] (https://github.com/gyverlibs/grgb) - a library for managing RGB LEDs and ribbons for Arduino
+- [microled] (https://github.com/gyverlibs/microled) - Ultra Light Library for working with targeted tape/matrix
+- [Servosmooth] (https://github.com/gyverlibs/Servosmooth) - library for smooth service control
+- [SoftServo] (https://github.com/gyverlibs/softServo) - Library for Servo software control (based on Millis/Micros)
+- [gyverrelay] (https://github.com/gyverlibs/gyverrely) - a library of a classic relay regulator for Arduino
+- [PWMRELAY] (https://github.com/gyverlibs/pwmrely) - a library for generating a low -frequency SWIM signal for relay (for PID regulators and so on)
+- [gyverdimmer] (https://github.com/gyverlibs/gyverdimmer) - library for controlling a simystory dimmer with Arduino
+- [gyvertepper] (https://github.com/gyverlibs/gyverstepper) - a productive library for managing step engines with Arduino
+- [gyvermotor] (https://github.com/gyverlibs/gyvermotor) - a library for convenient manage of collector motors through the driver
+- [accelmotor] (https://github.com/gyverlibs/accellmotor) - bicranberries for expanded control and stabilization of the motor with enkoder for Arduino
 
-### Displays:
-- [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - the sharpest library for MAX7219 matrices in the wild west
-- [GyverOLED](https://github.com/GyverLibs/GyverOLED) - lightweight and fast library for OLED display
-- [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - *[finalized]* library for TM74HC595 seven-segment display modules
-- [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - library for 7-segment display on TM1637 chip with lots of fun stuff
+## H displays:
+- [gyversegment] (https://github.com/gyverlibs/gyversegment) - a powerful library for any display with 7 -segment indicators
+- [gyvermax7219] (https://github.com/gyverlibs/gyvermax7219) - the sharpest library for matrices Max7219
+- [gyveroled] (https://github.com/gyverlibs/gyveroled) - light and fast library for OLED display
+- [SEVENSEGMENSDISP] (https://github.com/gyverlibs/seveensegmentsdisp) - * [produced] * Library for the Semagace Display TM74HC595
+- [gyvertm1637] (https://github.com/gyverlibs/gyvertm1637) - bibilotelak for a 7 segment display on the TM1637 chip with a bunch of jokes
+- [Chardisplay] (https://github.com/gyverlibs/chardisplay) - graphic engine on symbols: full -fledged drawing, loading indicators, graphics
 
 ### Algorithms:
-- [OVS](https://github.com/GyverLibs/OVS) - increasing the bit depth of measurements (oversampling)
-- [Approxy](https://github.com/GyverLibs/Approxy) - linear data approximator
-- [GyverPID](https://github.com/GyverLibs/GyverPID) - PID controller library for Arduino
-- [GyverFilters](https://github.com/GyverLibs/GyverFilters) - library with some handy filters for Arduino
-- [Forecaster](https://github.com/GyverLibs/Forecaster) - library for determining weather forecast by pressure for Arduino
-- [mString](https://github.com/GyverLibs/mString) - SHARP AS DIARRH AND LIGHT AS A FEATHER STRING REPLACEMENT
-- [VolAnalyzer] (https://github.com/GyverLibs/VolAnalyzer) - library for amplitude sound analysis on Arduino
-- [Clap](https://github.com/GyverLibs/Clap) - library for recognizing claps into a microphone
-- [Random16](https://github.com/GyverLibs/Random16) - library for fast generation of 16 bit random numbers
-- [Hamming](https://github.com/GyverLibs/Hamming) - a library for packing and unpacking data using the Hamming algorithm (redundant data for recovery)
-- [TimeRandom](https://github.com/GyverLibs/TimeRandom) - a library for generating a set of random numbers with reference to time
-- [UnixTime](https://github.com/GyverLibs/UnixTime) - Converter unix time stamp to date and time and vice versa for Arduino
-- [GyverGFX](https://github.com/GyverLibs/GyverGFX) - lightweight 2D graphics library for displays and matrices
-- [GyverFIFO](https://github.com/GyverLibs/GyverFIFO) - universal ring buffer for Arduino
-- [GyverLBUF](https://github.com/GyverLibs/GyverLBUF) - line buffer for Arduino
-- [fixed](https://github.com/GyverLibs/fixed) - implementation of fixed point calculations for Arduino
-- [FFT_C](https://github.com/GyverLibs/FFT_C) - Fourier transform library in C (for esp8266)
-- [BitPack](https://github.com/GyverLibs/BitPack) - library for packing bit flags into a byte array (space saving) for Arduino
-- [CRT](https://github.com/GyverLibs/CRT) - library with a set of functions for CRT LED correction
+- [stamp] (https://github.com/gyverlibs/stamp) - storage and transformation of time
+- [Sunposition] (https://github.com/gyverlibs/sunPounion) - determining the position of the sun by geolocation and time
+- [OVS] (https://github.com/gyverlibs/ovs) - increasing the discharge of measurements (oversemaking)
+- [Approxy] (https://github.com/gyverlibs/approxy) - linear data approximator
+- [gyverpid] (https://github.com/gyverlibs/gyverpid) - PID regulator library for arduino
+- [gyverfilters] (https://github.com/gyverlibs/gyverfilters) - a library with some convenient filters for Arduino
+- [Forecaster] (https://github.com/gyverlibs/FORECASter) - Library for determining the forecast of pressure on pressure for arduino
+- [mstring] (https://github.com/gyverlibs/mstring) - sharp as diarrhea and light as peryshko, replacing String
+- [VOLANALYZER] (https://github.com/gyverlibs/volanalyzer) - Library for amplitude analysis of sound on arduino
+- [clap] (https://github.com/gyverlibs/clap) - Library for recognizing cotton into the microphone
+- [random16] (https://github.com/gyverlibs/random16) - a library for quick generation 16 bits of random numbers
+- [Hamming] (https://github.com/gyverlibs/Hamming) - a library for packaging and unpacking data on the Hamming algorithm (excess data for recovery)
+- [Timerandom] (https://github.com/gyverlibs/timorandom) - a library for generating random numbers with a binding of time
+- [unixtime] (https://github.com/gyverlibs/unixtime) - Unix Time Stamp converter in date and time for Arduino
+- [gyvergfx] (https://github.com/gyverlibs/gyvergfx) - light library of two -dimensional graphics for displays and matrices
+- [gyverfifo] (https://github.com/gyverlibs/gyverfifo) - universal ring buffer for Arduino
+- [gyverlbuf] (https://github.com/gyverlibs/gyverlbuf) - linear buffer for arduino
+- [fixed] (https://github.com/gyverlibs/fixed) - implementation of calculations with a fixed point for arduino
+- [fft_c] (https://github.com/gyverlibs/fft_c) - Fourier transformation library (for ESP8266)
+- [Bitpack] (https://github.com/gyverlibs/bitpack) - a library for packing bit flags in a byte array (savings of places) for Arduino
+- [CRT] (https://github.com/gyverlibs/crt) - a library with a set of functions for CRT Correction of LED correction
+- [stringutils] (https://github.com/gyverlibs/stringutils) - a set of tools for lines
+- [gson] (https://github.com/gyverlibs/gson) - Parser and data collector in JSON format for Arduino
 
 ### Connection:
-- [EasyHID](https://github.com/GyverLibs/EasyHID) - USB mouse and keyboard software implementation
-- [GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - interface for data transfer (Stream-compatible) by wire, radio and IR
-- [GParser](https://github.com/GyverLibs/GParser) - simple and fast parser for strings into separate substrings and numbers for Arduino
-- [AsyncStream](https://github.com/GyverLibs/AsyncStream) - library for asynchronous reading of Stream objects (Serial, etc.)
-- [Gyver433](https://github.com/GyverLibs/Gyver433) - library for 433 MHz radio modules and Arduino
-- [GyverBus](https://github.com/GyverLibs/GyverBus) - library for communication via GBUS protocol
-- [GyverUART](https://github.com/GyverLibs/GyverUART) - a lightweight library for working with a serial port (similar to Serial)
-- [MicroUART](https://github.com/GyverLibs/MicroUART) - even more lightweight serial port library
+- [easyhid] (https://github.com/gyverlibs/easyhid) - software implementation of USB mouse and keyboard
+- [gyvertransfer] (https://github.com/gyverlibs/gyvertransfer) - interface for data transfer (Stream -Consumable) by wire, radio and IR
+- [gparser] (https://github.com/gyverlibs/gparser) - a simple and fast parser of lines in separate tunes and numbers for Arduino
+- [asyncstream] (https://github.com/gyverlibs/asyncstream) - Library for asynchronous reading of Stream (Serial) objects
+- [gyver433] (https://github.com/gyverlibs/gyver433) - a library for radio modules 433 MHz and Arduino
+- [gyverbus] (https://github.com/gyverlibs/gyverbus) - biCranberries bliotek for communication on the gbus protocol
+- [gyveruart] (https://github.com/gyverlibs/gyveruart) - light library for working with a sequential port (analogue of Serial)
+- [microuart] (https://github.com/gyverlibs/microuart) - an even lighter library for working with a consistent port
 
-### System:
-- [TimerMs](https://github.com/GyverLibs/TimerMs) - multifunctional software timer on millis() system timer for Arduino
-- [EEManager](https://github.com/GyverLibs/EEManager) - EEPROM manager - library for smartCranberries for memory wear
-- [GyverOS](https://github.com/GyverLibs/GyverOS) - lightweight task manager library for Arduino
-- [GyverPower](https://github.com/GyverLibs/GyverPower) - library for power management of MK AVR
-- [buildTime](https://github.com/GyverLibs/buildTime) - parsing and getting compilation date and time from DATE and TIME constants
-- [GyverTimer](https://github.com/GyverLibs/GyverTimer) - full timer based on system millis() / micros()
+## System:
+- [gyverio] (https://github.com/gyverlibs/gyverio) - quick functions for working with AVR, ESP8266, ESP32 Pins.
+- [pairs] (https://github.com/gyverlibs/pars) - storage of data in text form in the format "key": meaning
+- [Timerms] (https://github.com/gyverlibs/timerms) - multifunctional software timer on the Millis () system timer () for Arduino
+- [eemanager] (https://github.com/gyverlibs/eemanager) - Eeprom manager - library to reduce memory wear
+- [gyveros] (https://github.com/gyverlibs/gyveros) - Library of the easy dispatcher of tasks for Arduino
+- [gyverpower] (https://github.com/gyverlibs/gyverpower) - Library for managing energy consumption of MK AVR
+- [Buildtime] (https://github.com/gyverlibs/buildtime) - Parsing and receiving the date and time of compilation from the Constant Date and Time
+- [gyvertimer] (https://github.com/gyverlibs/gyvertimer) - a full -fledged timer based on systemic millis ()/micros ()
 
-### MK Peripherals (AVR only):
-- [GyverTimers](https://github.com/GyverLibs/GyverTimers) - configuring and controlling interrupts on ATmega328p, ATmega2560 hardware timers
-- [GyverWDT](https://github.com/GyverLibs/GyverWDT) - library to control WDT on AVR ATmega328p/32U4/2560 & ATtiny85/84/167
-- [microWire](https://github.com/GyverLibs/microWire) - lightweight library with a standard set of tools for working with hardware I2C
-- [directTimers](https://github.com/GyverLibs/directTimers) - library for advanced manual control of ATMega2560, ATMega328, ATMega32u4 timers
-- [directADC](https://github.com/GyverLibs/directADC) - library for advanced manual control of ADC and ATmega328 comparator
-- [GyverPWM](https://github.com/GyverLibs/GyverPWM) - library for extended PWM generation on ATmega328 (Arduino UNO/Nano/Pro Mini...)
+### periphery MK (only AVR):
+- [gyvertimers] (https://github.com/gyverlibs/gyvertimers) - configuration and control of interruptions on the hardware timers atmega328p, Atmega2560
+- [gyverwdt] (https://github.com/gyverlibs/gyverwdt) - library for managing WDT on AVR atmega328p/32U4/2560 & Attiny85/84/167
+- [microwire] (https://github.com/gyverlibs/microwire) - light library with a standard set of tools for working with hardware i2c
+- [Directtimers] (https://github.com/gyverlibs/directtimers) - Library for expanded manual control of timer ATMEGA2560, Atmega328, Atmega32U4
+- [Directadc] (https://github.com/gyverlibs/directadc) - Library for expanded manual control of ADC and comparator atmega328
+- [gyverpwm] (https://github.com/gyverlibs/gyverpwm) - library for expanded generation of shim on atmega328 (Arduino uno/nano/pro mini ...)
 
-<a id="esp"></a>
-## Libraries for ESP8266
-- [FastBot](https://github.com/GyverLibs/FastBot) - very simple and fast library for telegram bot
-- [SimplePortal](https://github.com/GyverLibs/SimplePortal) - simple WiFi manager for esp8266 to set WiFi login-password and operation mode
-- [GyverPortal](https://github.com/GyverLibs/GyverPortal) - simple web interface builder for esp8266 and ESP32
-- [GyverNTP](https://github.com/GyverLibs/GyverNTP) - library for getting exact time from NTP server for esp8266/esp32
+<a id="esp"> </a>
+## Library for ESP8266/ESP32
+- [FILEDATA] (https://github.com/gyverlibs/filedata) - replacing EEPROM, storing any data and variables in files
+- [gyverPortal] (https://github.com/gyverlibs/gyverPortal) - a simple web designer for ESP8266 and ESP32
+- [Fastbot] (https://github.com/gyverlibs/fastbot) - a very simple and fast library for telegram bot
+- [SimplePortal] (https://github.com/gyverlibs/simplePortal) - simple WiFi manager for ESP8266 for setting the WiFi Login -Parol and operating mode
+- [gyverntp] (https://github.com/gyverlibs/gyverntp) - a library for obtaining an exact time with a server NTP for ESP8266/ESP32
 
-<a id="processing"></a>
-## Libraries for Processing
-- [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - virtuosplotter in arduino style
-- [cards_ui](https://github.com/GyverLibs/cards_ui) - simple interface library for Processing
+<a id="processing"> </a>
+## Library for Processing
+- [Processingplotter] (https://github.com/gyverlibs/processingplotter) - Virtual Plotter in Arduinovsky style
+- [cards_ui] (https://github.com/gyverlibs/cards_ui) - a simple library of the interface for Processing
