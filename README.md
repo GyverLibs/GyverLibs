@@ -32,7 +32,7 @@
 - [GyverBlinker](https://github.com/GyverLibs/GyverBlinker) - таймер со счётчиком для мигания светодиодом и других задач
 - [GyverBeeper](https://github.com/GyverLibs/GyverBeeper) - генерация писка по таймеру
 - [QuickCharge](https://github.com/GyverLibs/QuickCharge) - библиотека для управления адаптерами с поддержкой технологии QuickCharge 2.0/3.0
-- [GyverHC595](https://github.com/GyverLibs/GyverHC595) - библиотека для удобного управления каскадом сдвиговых регистров 74HC595
+- [GyverShift](https://github.com/GyverLibs/GyverShift) - библиотека для удобного управления каскадом сдвиговых регистров 74HC595 и 74HC165
 - [GRGB](https://github.com/GyverLibs/GRGB) - библиотека для управления RGB светодиодами и лентами для Arduino
 - [microLED](https://github.com/GyverLibs/microLED) - ультра лёгкая библиотека для работы с адресной лентой/матрицей
 - [ServoSmooth](https://github.com/GyverLibs/ServoSmooth) - библиотека для плавного управления сервоприводами
