@@ -120,7 +120,5 @@
 - [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GyverLibs&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GyverLibs&theme=github)
