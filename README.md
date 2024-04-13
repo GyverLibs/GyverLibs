@@ -18,7 +18,7 @@
 - [GyverNTC](https://github.com/GyverLibs/GyverNTC) - библиотека для работы с NTC термисторами по закону Стейнхарта-Харта
 - [GyverHX711](https://github.com/GyverLibs/GyverHX711) - библиотека работы с датчиками веса (АЦП) HX711 для Arduino
 - [GyverBME280](https://github.com/GyverLibs/GyverBME280) - библиотека для работы с BME280 по I2C для Arduino
-- [microDS18B20](https://github.com/GyverLibs/microDS18B20) - легкая библиотека для работы с 1-Wire термометрами DS18B20
+- [GyverDS18](https://github.com/GyverLibs/GyverDS18) - легкая библиотека для работы с 1-Wire термометрами DS18B20
 - [microDS3231](https://github.com/GyverLibs/microDS3231) - лёгкая библиотека для работы с RTC DS3231 для Arduino
 
 ### Железки ввод:
