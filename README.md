@@ -54,6 +54,7 @@
 
 ### Алгоритмы:
 - [Stamp](https://github.com/GyverLibs/Stamp) - хранение и преобразование времени
+- [Stack](https://github.com/GyverLibs/Stack) - библиотека для удобной работы с массивами любого типа данных типа std::vector или массивов в js
 - [SunPosition](https://github.com/GyverLibs/SunPosition) - определение положения солнца по геолокации и времени
 - [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
 - [Approxy](https://github.com/GyverLibs/Approxy) - линейный аппроксиматор данных
