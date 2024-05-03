@@ -114,6 +114,7 @@
 - [FastBot](https://github.com/GyverLibs/FastBot) - быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
 - [GyverNTP](https://github.com/GyverLibs/GyverNTP) - библиотека для получения точного времени с NTP сервера для esp8266/esp32
+- [rtc_utils](https://github.com/GyverLibs/rtc_utils) - обёртка для более удобного использования RTC памяти на esp8266
 
 <a id="processing"></a>
 ## Библиотеки для Processing
