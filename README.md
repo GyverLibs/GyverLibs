@@ -97,6 +97,7 @@
 - [GyverPower](https://github.com/GyverLibs/GyverPower) - библиотека для управления энергопотреблением МК AVR
 - [buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME
 - [GyverTimer](https://github.com/GyverLibs/GyverTimer) - полноценный таймер на базе системных millis() / micros()
+- [pgm_utils](https://github.com/GyverLibs/pgm_utils) - набор удобных инструментов для работы с PROGMEM
 
 ### Периферия МК (только AVR):
 - [GyverTimers](https://github.com/GyverLibs/GyverTimers) - настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
