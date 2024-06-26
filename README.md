@@ -125,6 +125,11 @@
 - [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
 - [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
 
+<a id="js"></a>
+## JS библиотеки
+- [Component.js](https://github.com/GyverLibs/Component.js) - билдер DOM элементов
+- [UI.js](https://github.com/GyverLibs/UI.js) - простая модульная панель управления
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GyverLibs&theme=github)
