@@ -90,6 +90,7 @@
 - [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
 
 ### Системное:
+- [GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных
 - [GyverIO](https://github.com/GyverLibs/GyverIO) - быстрые функции для работы с пинами AVR, ESP8266, ESP32
 - [Pairs](https://github.com/GyverLibs/Pairs) - хранение данных в текстовом виде в формате "ключ":значение
 - [TimerMs](https://github.com/GyverLibs/TimerMs) - многофункциональный программный таймер на системном таймере millis() для Arduino
@@ -100,6 +101,7 @@
 - [GyverTimer](https://github.com/GyverLibs/GyverTimer) - полноценный таймер на базе системных millis() / micros()
 - [pgm_utils](https://github.com/GyverLibs/pgm_utils) - набор удобных инструментов для работы с PROGMEM
 - [GTL](https://github.com/GyverLibs/GTL) - набор шаблонных инструментов
+- [Benchmark](https://github.com/GyverLibs/Benchmark) - измерение времени выполнения кода
 
 ### Периферия МК (только AVR):
 - [GyverTimers](https://github.com/GyverLibs/GyverTimers) - настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
