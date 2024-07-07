@@ -113,6 +113,7 @@
 
 <a id="esp"></a>
 ## Библиотеки для ESP8266/ESP32
+- [Settings](https://github.com/GyverLibs/Settings) - максимально простой и удобный билдер вебморды для настроек
 - [FileData](https://github.com/GyverLibs/FileData) - замена EEPROM, хранение любых данных и переменных в файлах
 - [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 - [FastBot2](https://github.com/GyverLibs/FastBot2) - очень быстрая и универсальная библиотека для телеграм бота (новая версия)
