@@ -19,6 +19,7 @@
 - [GyverHX711](https://github.com/GyverLibs/GyverHX711) - библиотека работы с датчиками веса (АЦП) HX711 для Arduino
 - [GyverBME280](https://github.com/GyverLibs/GyverBME280) - библиотека для работы с BME280 по I2C для Arduino
 - [GyverDS18](https://github.com/GyverLibs/GyverDS18) - легкая библиотека для работы с 1-Wire термометрами DS18B20
+- [GyverDS3231](https://github.com/GyverLibs/GyverDS3231) - библиотека для работы с микросхемой реального времени DS3231
 - [microDS3231](https://github.com/GyverLibs/microDS3231) - лёгкая библиотека для работы с RTC DS3231 для Arduino
 
 ### Железки ввод:
