@@ -124,6 +124,7 @@
 - [GyverNTP](https://github.com/GyverLibs/GyverNTP) - библиотека для получения точного времени с NTP сервера для esp8266/esp32
 - [rtc_utils](https://github.com/GyverLibs/rtc_utils) - обёртка для более удобного использования RTC памяти на esp8266
 - [EspSleep](https://github.com/GyverLibs/EspSleep) - сон для esp8266 на любой (очень большой) период
+- [WiFiConnector](https://github.com/GyverLibs/WiFiConnector) - асинхронное подключение к WiFi с автоматическим созданием AP
 
 <a id="processing"></a>
 ## Библиотеки для Processing
