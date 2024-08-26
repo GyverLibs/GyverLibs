@@ -92,6 +92,7 @@
 - [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
 
 ### Системное:
+- [Looper](https://github.com/GyverLibs/Looper) - лёгкий псевдо-многопоточный событийно-ориентированный фреймворк
 - [GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных
 - [GyverIO](https://github.com/GyverLibs/GyverIO) - быстрые функции для работы с пинами AVR, ESP8266, ESP32
 - [Pairs](https://github.com/GyverLibs/Pairs) - хранение данных в текстовом виде в формате "ключ":значение
