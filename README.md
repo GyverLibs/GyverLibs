@@ -126,6 +126,7 @@
 - [rtc_utils](https://github.com/GyverLibs/rtc_utils) - обёртка для более удобного использования RTC памяти на esp8266
 - [EspSleep](https://github.com/GyverLibs/EspSleep) - сон для esp8266 на любой (очень большой) период
 - [WiFiConnector](https://github.com/GyverLibs/WiFiConnector) - асинхронное подключение к WiFi с автоматическим созданием AP
+- [AutoOTA](https://github.com/GyverLibs/AutoOTA) - библиотека для автоматической проверки ОТА обновлений проекта с GitHub и других источников
 
 <a id="processing"></a>
 ## Библиотеки для Processing
