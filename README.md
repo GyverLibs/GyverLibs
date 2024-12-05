@@ -135,8 +135,11 @@
 
 <a id="js"></a>
 ## JS библиотеки
-- [Component.js](https://github.com/GyverLibs/Component.js) - билдер DOM элементов
+- [ProcessingCanvas.js](https://github.com/GyverLibs/ProcessingCanvas.js) - Processing API для HTML Canvas
+- [ActionCanvas.js](https://github.com/GyverLibs/ActionCanvas.js) - обработка событий мышки и тачскрина для HTML Canvas
 - [UI.js](https://github.com/GyverLibs/UI.js) - простая модульная панель управления
+- [Component.js](https://github.com/GyverLibs/Component.js) - объектный билдер DOM элементов
+- [bson.js](https://github.com/GyverLibs/bson.js) - распаковщик бинарного JSON
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
