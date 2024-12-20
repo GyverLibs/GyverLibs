@@ -140,6 +140,7 @@
 - [UI.js](https://github.com/GyverLibs/UI.js) - простая модульная панель управления
 - [Component.js](https://github.com/GyverLibs/Component.js) - объектный билдер DOM элементов
 - [bson.js](https://github.com/GyverLibs/bson.js) - распаковщик бинарного JSON
+- [Packet.js](https://github.com/GyverLibs/Packet.js) - упаковщик и распаковщик данных в бинарный буфер
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
