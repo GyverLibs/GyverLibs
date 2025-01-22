@@ -49,7 +49,6 @@
 - [GyverSegment](https://github.com/GyverLibs/GyverSegment) - мощная библиотека для любых дисплеев с 7-сегментными индикаторами
 - [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
-- [SevenSegmentsDisp](https://github.com/GyverLibs/SevenSegmentsDisp) - *[дорабатывается]* библиотка для модулей семисегментного дисплея TM74HC595
 - [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 - [CharDisplay](https://github.com/GyverLibs/CharDisplay) - графический движок на символах: полноценное рисование, индикаторы загрузки, графики
 
