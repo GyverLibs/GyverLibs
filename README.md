@@ -133,12 +133,14 @@
 
 <a id="js"></a>
 ## JS библиотеки
+- [SVPlot.js](https://github.com/GyverLibs/SVPlot.js) - вывод графиков
 - [ProcessingCanvas.js](https://github.com/GyverLibs/ProcessingCanvas.js) - Processing API для HTML Canvas
-- [ActionCanvas.js](https://github.com/GyverLibs/ActionCanvas.js) - обработка событий мышки и тачскрина для HTML Canvas
 - [UI.js](https://github.com/GyverLibs/UI.js) - простая модульная панель управления
-- [Component.js](https://github.com/GyverLibs/Component.js) - объектный билдер DOM элементов
+- [Component.js](https://github.com/GyverLibs/Component.js) - объектный билдер DOM/SVG элементов
 - [bson.js](https://github.com/GyverLibs/bson.js) - распаковщик бинарного JSON
 - [Packet.js](https://github.com/GyverLibs/Packet.js) - упаковщик и распаковщик данных в бинарный буфер
+- [DragBlock.js](https://github.com/GyverLibs/DragBlock.js) - получение событий движения курсора с блока
+- [utils.js](https://github.com/GyverLibs/utils.js) - набор утилит
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
