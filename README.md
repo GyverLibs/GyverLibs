@@ -141,6 +141,7 @@
 - [Packet.js](https://github.com/GyverLibs/Packet.js) - упаковщик и распаковщик данных в бинарный буфер
 - [DragBlock.js](https://github.com/GyverLibs/DragBlock.js) - получение событий движения курсора с блока
 - [utils.js](https://github.com/GyverLibs/utils.js) - набор утилит
+- [Serial.js](https://github.com/GyverLibs/Serial.js) - удобный класс для работы с Serial
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
