@@ -83,10 +83,11 @@
 ### Связь:
 - [GyverHTTP](https://github.com/GyverLibs/GyverHTTP) - очень простой и лёгкий HTTP сервер и полуасинхронный HTTP клиент
 - [EasyHID](https://github.com/GyverLibs/EasyHID) - программная реализация USB мыши и клавиатуры
-- [GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК
+- [GyverWire](https://github.com/GyverLibs/GyverWire) - библиотека для передачи любых данных по проводу/ИК каналу/радио 433 МГц
+- ~[GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК~
+- ~[Gyver433](https://github.com/GyverLibs/Gyver433) - библиотека для радиомодулей 433 МГц и Arduino~
 - [GParser](https://github.com/GyverLibs/GParser) - простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
 - [AsyncStream](https://github.com/GyverLibs/AsyncStream) - библиотека для асинхронного чтения объектов Stream (Serial итд)
-- [Gyver433](https://github.com/GyverLibs/Gyver433) - библиотека для радиомодулей 433 МГц и Arduino
 - [GyverBus](https://github.com/GyverLibs/GyverBus) - библиотека для общения по протоколу GBUS
 - [GyverUART](https://github.com/GyverLibs/GyverUART) - лёгкая библиотека для работы с последовательным портом (аналог Serial)
 - [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
