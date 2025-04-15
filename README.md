@@ -130,7 +130,8 @@
 
 <a id="processing"></a>
 ## Библиотеки для Processing
-- [ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского
+- [PPlot](https://github.com/GyverLibs/PPlot) - виртуальный плоттер (новая версия)
+- ~[ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского~
 - [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
 
 <a id="js"></a>
