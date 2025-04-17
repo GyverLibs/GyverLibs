@@ -145,6 +145,7 @@
 - [DragBlock.js](https://github.com/GyverLibs/DragBlock.js) - получение событий движения курсора с блока
 - [utils.js](https://github.com/GyverLibs/utils.js) - набор утилит
 - [Serial.js](https://github.com/GyverLibs/Serial.js) - удобный класс для работы с Serial
+- [Websocket.js](https://github.com/GyverLibs/Websocket.js) - обёртка на WebSocket с автоматическим переподключением
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GyverLibs&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GyverLibs&theme=github)
