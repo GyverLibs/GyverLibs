@@ -60,6 +60,7 @@
 - [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
 - [Approxy](https://github.com/GyverLibs/Approxy) - линейный аппроксиматор данных
 - [GyverPID](https://github.com/GyverLibs/GyverPID) - библиотека PID регулятора для Arduino
+- [uPID](https://github.com/GyverLibs/uPID) - лёгкая универсальная библиотека PID регулятора
 - [GyverFilters](https://github.com/GyverLibs/GyverFilters) - библиотека с некоторыми удобными фильтрами для Arduino
 - [Forecaster](https://github.com/GyverLibs/Forecaster) - библиотека для определения прогноза погоды по давлению для Arduino
 - [mString](https://github.com/GyverLibs/mString) - РЕЗКАЯ КАК ПОНОС И ЛЁГКАЯ КАК ПЁРЫШКО ЗАМЕНА STRING
