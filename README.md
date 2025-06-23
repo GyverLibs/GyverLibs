@@ -85,6 +85,7 @@
 - [GyverHTTP](https://github.com/GyverLibs/GyverHTTP) - очень простой и лёгкий HTTP сервер и полуасинхронный HTTP клиент
 - [EasyHID](https://github.com/GyverLibs/EasyHID) - программная реализация USB мыши и клавиатуры
 - [GyverWire](https://github.com/GyverLibs/GyverWire) - библиотека для передачи любых данных по проводу/ИК каналу/радио 433 МГц
+- [UART_RF](https://github.com/GyverLibs/UART_RF) - библиотека для передачи любых данных по радио 433 МГц через UART
 - ~[GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК~
 - ~[Gyver433](https://github.com/GyverLibs/Gyver433) - библиотека для радиомодулей 433 МГц и Arduino~
 - [GParser](https://github.com/GyverLibs/GParser) - простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
