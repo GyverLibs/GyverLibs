@@ -63,6 +63,7 @@
 - [uPID](https://github.com/GyverLibs/uPID) - лёгкая универсальная библиотека PID регулятора
 - [GyverFilters](https://github.com/GyverLibs/GyverFilters) - библиотека с некоторыми удобными фильтрами для Arduino
 - [Forecaster](https://github.com/GyverLibs/Forecaster) - библиотека для определения прогноза погоды по давлению для Arduino
+- [StringN](https://github.com/GyverLibs/StringN) - лёгкий и быстрый статический String-билдер
 - [mString](https://github.com/GyverLibs/mString) - РЕЗКАЯ КАК ПОНОС И ЛЁГКАЯ КАК ПЁРЫШКО ЗАМЕНА STRING
 - [VolAnalyzer](https://github.com/GyverLibs/VolAnalyzer) - библиотека для амплитудного анализа звука на Arduino
 - [Clap](https://github.com/GyverLibs/Clap) - библиотека для распознавания хлопков в микрофон
