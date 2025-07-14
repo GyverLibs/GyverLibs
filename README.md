@@ -81,6 +81,7 @@
 - [StringUtils](https://github.com/GyverLibs/StringUtils) - набор инструментов для работы со строками
 - [GSON](https://github.com/GyverLibs/GSON) - парсер и сборщик данных в формате JSON для Arduino
 - [FOR_MACRO](https://github.com/GyverLibs/FOR_MACRO) - variadic for macro
+- [GVector](https://github.com/GyverLibs/GVector) - библиотека для работы с 2-х мерными векторами
 
 ### Связь:
 - [GyverHTTP](https://github.com/GyverLibs/GyverHTTP) - очень простой и лёгкий HTTP сервер и полуасинхронный HTTP клиент
