@@ -11,6 +11,7 @@
 <a id="arduino"></a>
 ## Arduino библиотеки
 ### Датчики:
+- [GyverPing](https://github.com/GyverLibs/GyverPing) - библиотека для ультразвукового дальномера HC-SR04
 - [GyverMAX6675](https://github.com/GyverLibs/GyverMAX6675) - лёгкая библиотека для драйвера термопары MAX6675
 - [GyverHTU21D](https://github.com/GyverLibs/GyverHTU21D) - лёгкая библиотека для датчика температуры и влажности HTU21D
 - [GyverINA](https://github.com/GyverLibs/GyverINA) - лёгкая библиотека для модулей power-monitor'ов INA219 и INA226
