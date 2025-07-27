@@ -98,6 +98,7 @@
 - [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
 
 ### Системное:
+- [GyverMenu](https://github.com/GyverLibs/GyverMenu) - динамическая система меню
 - [GTimer](https://github.com/GyverLibs/GTimer) - лёгкий и универсальный программный таймер
 - [Looper](https://github.com/GyverLibs/Looper) - лёгкий псевдо-многопоточный событийно-ориентированный фреймворк
 - [GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных
