@@ -35,6 +35,7 @@
 ### Железки вывод:
 - [GyverBlinker](https://github.com/GyverLibs/GyverBlinker) - таймер со счётчиком для мигания светодиодом и других задач
 - [GyverBeeper](https://github.com/GyverLibs/GyverBeeper) - генерация писка по таймеру
+- [GyverMIDI](https://github.com/GyverLibs/GyverMIDI) - проигрыватель MIDI-файлов из специального [конвертера](https://alexgyver.github.io/MIDI/index/)
 - [QuickCharge](https://github.com/GyverLibs/QuickCharge) - библиотека для управления адаптерами с поддержкой технологии QuickCharge 2.0/3.0
 - [GyverShift](https://github.com/GyverLibs/GyverShift) - библиотека для удобного управления каскадом сдвиговых регистров 74HC595 и 74HC165
 - [RGBLED](https://github.com/GyverLibs/RGBLED) - библиотека для управления RGB светодиодами и лентами для Arduino
@@ -104,6 +105,7 @@
 - [GTimer](https://github.com/GyverLibs/GTimer) - лёгкий и универсальный программный таймер
 - [Looper](https://github.com/GyverLibs/Looper) - лёгкий псевдо-многопоточный событийно-ориентированный фреймворк
 - [GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных
+- [Table](https://github.com/GyverLibs/Table) - динамическая таблица для данных любого типа
 - [GyverIO](https://github.com/GyverLibs/GyverIO) - быстрые функции для работы с пинами AVR, ESP8266, ESP32
 - [Pairs](https://github.com/GyverLibs/Pairs) - хранение данных в текстовом виде в формате "ключ":значение
 - [EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти
