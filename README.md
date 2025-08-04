@@ -22,11 +22,12 @@
 - [GyverBME280](https://github.com/GyverLibs/GyverBME280) - библиотека для работы с BME280 по I2C для Arduino
 - [GyverDS18](https://github.com/GyverLibs/GyverDS18) - легкая библиотека для работы с 1-Wire термометрами DS18B20
 - [GyverDS3231](https://github.com/GyverLibs/GyverDS3231) - библиотека для работы с микросхемой реального времени DS3231
-- [microDS3231](https://github.com/GyverLibs/microDS3231) - лёгкая библиотека для работы с RTC DS3231 для Arduino
+- ~[microDS3231](https://github.com/GyverLibs/microDS3231) - лёгкая библиотека для работы с RTC DS3231 для Arduino~
 
 ### Железки ввод:
 - [GyverHub](https://github.com/GyverLibs/GyverHub) - панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом
 - [EncButton](https://github.com/GyverLibs/EncButton) - лёгкая библиотека для энкодера и/или кнопки с огромным количеством возможностей
+- [uButton](https://github.com/GyverLibs/uButton) - ещё одна лёгкая, но мощная библиотека для кнопки с читаемым исходником
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 - [NecDecoder](https://github.com/GyverLibs/NecDecoder) - лёгкая библиотека для декодирования ИК протокола NEC
 - [AnalogKey](https://github.com/GyverLibs/AnalogKey) - библиотека для работы с аналоговой клавиатурой для Arduino
@@ -51,12 +52,11 @@
 - [GyverSegment](https://github.com/GyverLibs/GyverSegment) - мощная библиотека для любых дисплеев с 7-сегментными индикаторами
 - [GyverMAX7219](https://github.com/GyverLibs/GyverMAX7219) - самая резкая библиотека для матриц MAX7219 на диком западе
 - [GyverOLED](https://github.com/GyverLibs/GyverOLED) - лёгкая и быстрая библиотека для OLED дисплея
-- [GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх
 - [CharDisplay](https://github.com/GyverLibs/CharDisplay) - графический движок на символах: полноценное рисование, индикаторы загрузки, графики
+- ~[GyverTM1637](https://github.com/GyverLibs/GyverTM1637) - бибилотека для 7 сегментного дисплея на чипе TM1637 с кучей приколюх~
 
 ### Алгоритмы:
 - [Stamp](https://github.com/GyverLibs/Stamp) - хранение и преобразование времени
-- [Stack](https://github.com/GyverLibs/Stack) - библиотека для удобной работы с массивами любого типа данных типа std::vector или массивов в js
 - [SunPosition](https://github.com/GyverLibs/SunPosition) - определение положения солнца по геолокации и времени
 - [OVS](https://github.com/GyverLibs/OVS) - повышение разрядности измерений (оверсэмплинг)
 - [Approxy](https://github.com/GyverLibs/Approxy) - линейный аппроксиматор данных
@@ -65,37 +65,39 @@
 - [GyverFilters](https://github.com/GyverLibs/GyverFilters) - библиотека с некоторыми удобными фильтрами для Arduino
 - [Forecaster](https://github.com/GyverLibs/Forecaster) - библиотека для определения прогноза погоды по давлению для Arduino
 - [StringN](https://github.com/GyverLibs/StringN) - лёгкий и быстрый статический String-билдер
-- [mString](https://github.com/GyverLibs/mString) - РЕЗКАЯ КАК ПОНОС И ЛЁГКАЯ КАК ПЁРЫШКО ЗАМЕНА STRING
 - [VolAnalyzer](https://github.com/GyverLibs/VolAnalyzer) - библиотека для амплитудного анализа звука на Arduino
 - [Clap](https://github.com/GyverLibs/Clap) - библиотека для распознавания хлопков в микрофон
 - [Random16](https://github.com/GyverLibs/Random16) - библиотека для быстрой генерации 16 бит случайных чисел
 - [Hamming](https://github.com/GyverLibs/Hamming) - библиотека для упаковки и распаковки данных по алгоритму Хэмминга (избыточные данные для восстановления)
 - [TimeRandom](https://github.com/GyverLibs/TimeRandom) - библиотека для генерации набора случайных чисел с привязкой ко времени
-- [UnixTime](https://github.com/GyverLibs/UnixTime) - конвертер unix time stamp в дату и время и наоборот для Arduino
 - [GyverGFX](https://github.com/GyverLibs/GyverGFX) - лёгкая библиотека двухмерной графики для дисплеев и матриц
-- [GyverFIFO](https://github.com/GyverLibs/GyverFIFO) - универсальный кольцевой буфер для Arduino
-- [GyverLBUF](https://github.com/GyverLibs/GyverLBUF) - линейный буфер для Arduino
 - [fixed](https://github.com/GyverLibs/fixed) - реализация вычислений с фиксированной точкой для Arduino
 - [FFT_C](https://github.com/GyverLibs/FFT_C) - библиотека преобразования Фурье на С (для esp8266)
 - [BitPack](https://github.com/GyverLibs/BitPack) - библиотека для упаковки битовых флагов в байтовый массив (экономия места) для Arduino
 - [CRT](https://github.com/GyverLibs/CRT) - библиотека с набором функций для CRT коррекции светодиодов
 - [StringUtils](https://github.com/GyverLibs/StringUtils) - набор инструментов для работы со строками
 - [GSON](https://github.com/GyverLibs/GSON) - парсер и сборщик данных в формате JSON для Arduino
+- [BSON](https://github.com/GyverLibs/BSON) - парсер и сборщик данных в формате бинарного JSON для Arduino
 - [FOR_MACRO](https://github.com/GyverLibs/FOR_MACRO) - variadic for macro
 - [GVector](https://github.com/GyverLibs/GVector) - библиотека для работы с 2-х мерными векторами
+- ~[Stack](https://github.com/GyverLibs/Stack) - библиотека для удобной работы с массивами любого типа данных типа std::vector или массивов в js~
+- ~[UnixTime](https://github.com/GyverLibs/UnixTime) - конвертер unix time stamp в дату и время и наоборот для Arduino~
+- ~[GyverFIFO](https://github.com/GyverLibs/GyverFIFO) - универсальный кольцевой буфер для Arduino~
+- ~[GyverLBUF](https://github.com/GyverLibs/GyverLBUF) - линейный буфер для Arduino~
 
 ### Связь:
 - [GyverHTTP](https://github.com/GyverLibs/GyverHTTP) - очень простой и лёгкий HTTP сервер и полуасинхронный HTTP клиент
 - [EasyHID](https://github.com/GyverLibs/EasyHID) - программная реализация USB мыши и клавиатуры
 - [GyverWire](https://github.com/GyverLibs/GyverWire) - библиотека для передачи любых данных по проводу/ИК каналу/радио 433 МГц
 - [UART_RF](https://github.com/GyverLibs/UART_RF) - библиотека для передачи любых данных по радио 433 МГц через UART
-- ~[GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК~
-- ~[Gyver433](https://github.com/GyverLibs/Gyver433) - библиотека для радиомодулей 433 МГц и Arduino~
-- [GParser](https://github.com/GyverLibs/GParser) - простой и быстрый парсер строк в отдельные подстроки и числа для Arduino
 - [AsyncStream](https://github.com/GyverLibs/AsyncStream) - библиотека для асинхронного чтения объектов Stream (Serial итд)
+- [StreamPacket](https://github.com/GyverLibs/StreamPacket) - простой универсальный протокол для передачи данных через Arduino Stream
 - [GyverBus](https://github.com/GyverLibs/GyverBus) - библиотека для общения по протоколу GBUS
 - [GyverUART](https://github.com/GyverLibs/GyverUART) - лёгкая библиотека для работы с последовательным портом (аналог Serial)
 - [MicroUART](https://github.com/GyverLibs/MicroUART) - ещё более лёгкая библиотека для работы с последовательным портом
+- ~[GParser](https://github.com/GyverLibs/GParser) - простой и быстрый парсер строк в отдельные подстроки и числа для Arduino~
+- ~[GyverTransfer](https://github.com/GyverLibs/GyverTransfer) - интерфейс для передачи данных (Stream-совместимый) по проводу, радио и ИК~
+- ~[Gyver433](https://github.com/GyverLibs/Gyver433) - библиотека для радиомодулей 433 МГц и Arduino~
 
 ### Системное:
 - [GyverMenu](https://github.com/GyverLibs/GyverMenu) - динамическая система меню
@@ -107,10 +109,10 @@
 - [EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти
 - [GyverOS](https://github.com/GyverLibs/GyverOS) - библиотека лёгкого диспетчера задач для Arduino
 - [GyverPower](https://github.com/GyverLibs/GyverPower) - библиотека для управления энергопотреблением МК AVR
-- [buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME
 - [pgm_utils](https://github.com/GyverLibs/pgm_utils) - набор удобных инструментов для работы с PROGMEM
 - [GTL](https://github.com/GyverLibs/GTL) - набор шаблонных инструментов
 - [Benchmark](https://github.com/GyverLibs/Benchmark) - измерение времени выполнения кода
+- ~[buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME~
 
 ### Периферия МК (только AVR):
 - [GyverTimers](https://github.com/GyverLibs/GyverTimers) - настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
@@ -124,7 +126,6 @@
 ## Библиотеки для ESP8266/ESP32
 - [Settings](https://github.com/GyverLibs/Settings) - максимально простой и удобный билдер вебморды для настроек
 - [FileData](https://github.com/GyverLibs/FileData) - замена EEPROM, хранение любых данных и переменных в файлах
-- [GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32
 - [FastBot2](https://github.com/GyverLibs/FastBot2) - очень быстрая и универсальная библиотека для телеграм бота (новая версия)
 - [FastBot](https://github.com/GyverLibs/FastBot) - быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
@@ -133,12 +134,13 @@
 - [EspSleep](https://github.com/GyverLibs/EspSleep) - сон для esp8266 на любой (очень большой) период
 - [WiFiConnector](https://github.com/GyverLibs/WiFiConnector) - асинхронное подключение к WiFi с автоматическим созданием AP
 - [AutoOTA](https://github.com/GyverLibs/AutoOTA) - библиотека для автоматической проверки ОТА обновлений проекта с GitHub и других источников
+- ~[GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32~
 
 <a id="processing"></a>
 ## Библиотеки для Processing
 - [PPlot](https://github.com/GyverLibs/PPlot) - виртуальный плоттер (новая версия)
+- [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing (fork)
 - ~[ProcessingPlotter](https://github.com/GyverLibs/ProcessingPlotter) - виртуальный плоттер в стиле ардуиновского~
-- [cards_ui](https://github.com/GyverLibs/cards_ui) - простенькая библиотека интерфейса для Processing
 
 <a id="js"></a>
 ## JS библиотеки
