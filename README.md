@@ -30,6 +30,7 @@
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 - [NecDecoder](https://github.com/GyverLibs/NecDecoder) - лёгкая библиотека для декодирования ИК протокола NEC
 - [GyverKey](https://github.com/GyverLibs/GyverKey) - библиотека для работы с матричными и аналоговыми клавиатурами
+- ~[AnalogKey](https://github.com/GyverLibs/AnalogKey) - библиотека для работы с аналоговыми клавиатурами
 
 ### Железки вывод:
 - [GyverBlinker](https://github.com/GyverLibs/GyverBlinker) - таймер со счётчиком для мигания светодиодом и других задач
@@ -47,6 +48,7 @@
 - [GyverStepper](https://github.com/GyverLibs/GyverStepper) - производительная библиотека для управления шаговыми моторами с Arduino
 - [GyverMotor2](https://github.com/GyverLibs/GyverMotor2) - библиотека для удобного управления коллекторными моторами через драйвер
 - [AccelMotor](https://github.com/GyverLibs/AccelMotor) - библиотека для расширенного управления и стабилизации мотора с энкодером для Arduino
+- ~[GyverMotor](https://github.com/GyverLibs/GyverMotor) - библиотека для удобного управления коллекторными моторами через драйвер
 
 ### Дисплеи:
 - [GyverSegment](https://github.com/GyverLibs/GyverSegment) - мощная библиотека для любых дисплеев с 7-сегментными индикаторами
