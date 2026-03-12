@@ -29,7 +29,7 @@
 - [uButton](https://github.com/GyverLibs/uButton) - ещё одна лёгкая, но мощная библиотека для кнопки с читаемым исходником
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 - [NecDecoder](https://github.com/GyverLibs/NecDecoder) - лёгкая библиотека для декодирования ИК протокола NEC
-- [AnalogKey](https://github.com/GyverLibs/AnalogKey) - библиотека для работы с аналоговой клавиатурой для Arduino
+- [GyverKey](https://github.com/GyverLibs/GyverKey) - библиотека для работы с матричными и аналоговыми клавиатурами
 
 ### Железки вывод:
 - [GyverBlinker](https://github.com/GyverLibs/GyverBlinker) - таймер со счётчиком для мигания светодиодом и других задач
