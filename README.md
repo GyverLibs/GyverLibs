@@ -45,7 +45,7 @@
 - [PWMrelay](https://github.com/GyverLibs/PWMrelay) - библиотека для генерации низкочастотного ШИМ сигнала для реле (для ПИД регуляторов и проч.)
 - [GyverDimmer](https://github.com/GyverLibs/GyverDimmer) - библиотека для управления симисторным диммером с Arduino
 - [GyverStepper](https://github.com/GyverLibs/GyverStepper) - производительная библиотека для управления шаговыми моторами с Arduino
-- [GyverMotor](https://github.com/GyverLibs/GyverMotor) - библиотека для удобного управления коллекторными моторами через драйвер
+- [GyverMotor2](https://github.com/GyverLibs/GyverMotor2) - библиотека для удобного управления коллекторными моторами через драйвер
 - [AccelMotor](https://github.com/GyverLibs/AccelMotor) - библиотека для расширенного управления и стабилизации мотора с энкодером для Arduino
 
 ### Дисплеи:
