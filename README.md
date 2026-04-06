@@ -27,6 +27,7 @@
 - [GyverHub](https://github.com/GyverLibs/GyverHub) - панель управления для esp8266, esp32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом
 - [EncButton](https://github.com/GyverLibs/EncButton) - лёгкая библиотека для энкодера и/или кнопки с огромным количеством возможностей
 - [uButton](https://github.com/GyverLibs/uButton) - ещё одна лёгкая, но мощная библиотека для кнопки с читаемым исходником
+- [uEncoder](https://github.com/GyverLibs/uEncoder) - ещё одна библиотека для энкодера с кнопкой (на базе uButton)
 - [GyverJoy](https://github.com/GyverLibs/GyverJoy) - библиотека для удобной работы с джойстиком
 - [NecDecoder](https://github.com/GyverLibs/NecDecoder) - лёгкая библиотека для декодирования ИК протокола NEC
 - [GyverKey](https://github.com/GyverLibs/GyverKey) - библиотека для работы с матричными и аналоговыми клавиатурами
