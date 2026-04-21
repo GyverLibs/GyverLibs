@@ -89,6 +89,7 @@
 - ~[GyverLBUF](https://github.com/GyverLibs/GyverLBUF) - линейный буфер для Arduino~
 
 ### Связь:
+- [GyverPush](https://github.com/GyverLibs/GyverPush) - отправка push-уведомлений в браузер
 - [GyverHTTP](https://github.com/GyverLibs/GyverHTTP) - очень простой и лёгкий HTTP сервер и полуасинхронный HTTP клиент
 - [EasyHID](https://github.com/GyverLibs/EasyHID) - программная реализация USB мыши и клавиатуры
 - [GyverWire](https://github.com/GyverLibs/GyverWire) - библиотека для передачи любых данных по проводу/ИК каналу/радио 433 МГц
