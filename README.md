@@ -75,6 +75,7 @@
 - [Hamming](https://github.com/GyverLibs/Hamming) - библиотека для упаковки и распаковки данных по алгоритму Хэмминга (избыточные данные для восстановления)
 - [TimeRandom](https://github.com/GyverLibs/TimeRandom) - библиотека для генерации набора случайных чисел с привязкой ко времени
 - [GyverGFX](https://github.com/GyverLibs/GyverGFX) - лёгкая библиотека двухмерной графики для дисплеев и матриц
+- [ExpInt](https://github.com/GyverLibs/ExpInt) - хранение больших чисел в маленьких типах
 - [fixed](https://github.com/GyverLibs/fixed) - реализация вычислений с фиксированной точкой для Arduino
 - [FFT_C](https://github.com/GyverLibs/FFT_C) - библиотека преобразования Фурье на С (для esp8266)
 - [BitPack](https://github.com/GyverLibs/BitPack) - библиотека для упаковки битовых флагов в байтовый массив (экономия места) для Arduino
