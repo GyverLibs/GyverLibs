@@ -44,6 +44,7 @@
 - [microLED](https://github.com/GyverLibs/microLED) - ультра лёгкая библиотека для работы с адресной лентой/матрицей
 - [ServoSmooth](https://github.com/GyverLibs/ServoSmooth) - библиотека для плавного управления сервоприводами
 - [SoftServo](https://github.com/GyverLibs/SoftServo) - библиотека для программного управления Servo (на базе millis/micros)
+- [MultiServo](https://github.com/GyverLibs/MultiServo) - библиотека для управления сервоприводами через многоканальный драйвер
 - [GyverRelay](https://github.com/GyverLibs/GyverRelay) - библиотека классического релейного регулятора для Arduino
 - [PWMrelay](https://github.com/GyverLibs/PWMrelay) - библиотека для генерации низкочастотного ШИМ сигнала для реле (для ПИД регуляторов и проч.)
 - [GyverDimmer](https://github.com/GyverLibs/GyverDimmer) - библиотека для управления симисторным диммером с Arduino
