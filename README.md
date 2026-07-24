@@ -125,7 +125,7 @@
 ### Периферия МК (только AVR):
 - [GyverTimers](https://github.com/GyverLibs/GyverTimers) - настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
 - [GyverWDT](https://github.com/GyverLibs/GyverWDT) - библиотека для управления WDT на AVR ATmega328p/32U4/2560 & ATtiny85/84/167
-- [microWire](https://github.com/GyverLibs/microWire) - лёгкая библиотека со стандартным набором инструментов для работы с аппаратным I2C
+- [uWire](https://github.com/GyverLibs/uWire) - лёгкая библиотека со стандартным набором инструментов для работы с аппаратным I2C
 - [directTimers](https://github.com/GyverLibs/directTimers) - библиотека для расширенного ручного управления таймерами ATMega2560, ATMega328, ATMega32u4
 - [directADC](https://github.com/GyverLibs/directADC) - библиотека для расширенного ручного управления АЦП и компаратором ATmega328
 - [GyverPWM](https://github.com/GyverLibs/GyverPWM) - библиотека для расширенной генерации ШИМ на ATmega328 (Arduino UNO/Nano/Pro Mini...)
