@@ -86,6 +86,7 @@
 - [BSON](https://github.com/GyverLibs/BSON) - парсер и сборщик данных в формате бинарного JSON для Arduino
 - [FOR_MACRO](https://github.com/GyverLibs/FOR_MACRO) - variadic for macro
 - [GVector](https://github.com/GyverLibs/GVector) - библиотека для работы с 2-х мерными векторами
+- [uPerlin](https://github.com/GyverLibs/uPerlin) - лёгкая реализация шума Перлина
 - ~[Stack](https://github.com/GyverLibs/Stack) - библиотека для удобной работы с массивами любого типа данных типа std::vector или массивов в js~
 - ~[UnixTime](https://github.com/GyverLibs/UnixTime) - конвертер unix time stamp в дату и время и наоборот для Arduino~
 - ~[GyverFIFO](https://github.com/GyverLibs/GyverFIFO) - универсальный кольцевой буфер для Arduino~
@@ -142,6 +143,7 @@
 - [EspSleep](https://github.com/GyverLibs/EspSleep) - сон для esp8266 на любой (очень большой) период
 - [WiFiConnector](https://github.com/GyverLibs/WiFiConnector) - асинхронное подключение к WiFi с автоматическим созданием AP
 - [AutoOTA](https://github.com/GyverLibs/AutoOTA) - библиотека для автоматической проверки ОТА обновлений проекта с GitHub и других источников
+- [HybridFS](https://github.com/GyverLibs/HybridFS) - обёртка для файловой системы Flash/SD
 - ~[GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32~
 
 <a id="processing"></a>
