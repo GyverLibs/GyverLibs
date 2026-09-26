@@ -110,18 +110,19 @@
 
 ### Системное:
 - [GyverMenu](https://github.com/GyverLibs/GyverMenu) - динамическая система меню
+- [Saver](https://github.com/GyverLibs/Saver) - хранение настроек и других статических данных в EEPROM или файлах
 - [GTimer](https://github.com/GyverLibs/GTimer) - лёгкий и универсальный программный таймер
 - [Looper](https://github.com/GyverLibs/Looper) - лёгкий псевдо-многопоточный событийно-ориентированный фреймворк
 - [GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных
 - [Table](https://github.com/GyverLibs/Table) - динамическая таблица для данных любого типа
 - [GyverIO](https://github.com/GyverLibs/GyverIO) - быстрые функции для работы с пинами AVR, ESP8266, ESP32
 - [Pairs](https://github.com/GyverLibs/Pairs) - хранение данных в текстовом виде в формате "ключ":значение
-- [EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти
 - [GyverOS](https://github.com/GyverLibs/GyverOS) - библиотека лёгкого диспетчера задач для Arduino
 - [GyverPower](https://github.com/GyverLibs/GyverPower) - библиотека для управления энергопотреблением МК AVR
 - [pgm_utils](https://github.com/GyverLibs/pgm_utils) - набор удобных инструментов для работы с PROGMEM
 - [GTL](https://github.com/GyverLibs/GTL) - набор шаблонных инструментов
 - [Benchmark](https://github.com/GyverLibs/Benchmark) - измерение времени выполнения кода
+- ~[EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти~
 - ~[buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME~
 
 ### Периферия МК (только AVR):
@@ -135,7 +136,6 @@
 <a id="esp"></a>
 ## Библиотеки для ESP8266/ESP32
 - [Settings](https://github.com/GyverLibs/Settings) - максимально простой и удобный билдер вебморды для настроек
-- [FileData](https://github.com/GyverLibs/FileData) - замена EEPROM, хранение любых данных и переменных в файлах
 - [FastBot2](https://github.com/GyverLibs/FastBot2) - очень быстрая и универсальная библиотека для телеграм бота (новая версия)
 - [FastBot](https://github.com/GyverLibs/FastBot) - быстрая библиотека для телеграм бота
 - [SimplePortal](https://github.com/GyverLibs/SimplePortal) - простой менеджер WiFi для esp8266 для задания логина-пароля WiFi и режима работы
@@ -146,6 +146,7 @@
 - [AutoOTA](https://github.com/GyverLibs/AutoOTA) - библиотека для автоматической проверки ОТА обновлений проекта с GitHub и других источников
 - [HybridFS](https://github.com/GyverLibs/HybridFS) - обёртка для файловой системы Flash/SD
 - ~[GyverPortal](https://github.com/GyverLibs/GyverPortal) - простой конструктор веб интерфейса для esp8266 и ESP32~
+- ~[FileData](https://github.com/GyverLibs/FileData) - замена EEPROM, хранение любых данных и переменных в файлах~
 
 <a id="processing"></a>
 ## Библиотеки для Processing
