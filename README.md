@@ -113,7 +113,8 @@
 - [Saver](https://github.com/GyverLibs/Saver) - хранение настроек и других статических данных в EEPROM или файлах
 - [GTimer](https://github.com/GyverLibs/GTimer) - лёгкий и универсальный программный таймер
 - [Looper](https://github.com/GyverLibs/Looper) - лёгкий псевдо-многопоточный событийно-ориентированный фреймворк
-- [GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных
+- [Dict](https://github.com/GyverLibs/Dict) - словарь (база данных) ключ:значение для Arduino
+- [Any](https://github.com/GyverLibs/Any) - обёртка для передачи чисел, строк и бинарных данных с преобразованием совместимых типов
 - [Table](https://github.com/GyverLibs/Table) - динамическая таблица для данных любого типа
 - [GyverIO](https://github.com/GyverLibs/GyverIO) - быстрые функции для работы с пинами AVR, ESP8266, ESP32
 - [Pairs](https://github.com/GyverLibs/Pairs) - хранение данных в текстовом виде в формате "ключ":значение
@@ -124,6 +125,7 @@
 - [Benchmark](https://github.com/GyverLibs/Benchmark) - измерение времени выполнения кода
 - ~[EEManager](https://github.com/GyverLibs/EEManager) - Менеджер EEPROM - библиотека для уменьшения износа памяти~
 - ~[buildTime](https://github.com/GyverLibs/buildTime) - парсинг и получение даты и времени компиляции из констант DATE и TIME~
+- ~[GyverDB](https://github.com/GyverLibs/GyverDB) - база данных для хранения данных~
 
 ### Периферия МК (только AVR):
 - [GyverTimers](https://github.com/GyverLibs/GyverTimers) - настройка и контроль прерываний по аппаратным таймерам ATmega328p, ATmega2560
